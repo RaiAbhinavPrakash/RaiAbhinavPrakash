@@ -2,7 +2,7 @@
 ### 👀 I`m interested in CP & WebDev
 ### 🌱 I’m currently learning DSA and Reactjs
 ### 👯 I’m looking to collaborate on Frontend Projects
-### 📫 Reach out to me at raiabhinavprakash@gmail.com
+### 📫 Reach out to me at raiabhinavprakash.work@gmail.com
 
 <!--
 **RaiAbhinavPrakash/RaiAbhinavPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
